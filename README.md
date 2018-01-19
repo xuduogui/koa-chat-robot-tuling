@@ -7,3 +7,6 @@
 
 前台地址：
   https://github.com/xuduogui/VueLiveChat
+  
+  端口地址：
+    http://localhost：80
