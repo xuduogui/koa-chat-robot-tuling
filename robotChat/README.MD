@@ -10,3 +10,6 @@
   
   端口地址：
     http://localhost：80
+   
+运行方式：
+    npm start
