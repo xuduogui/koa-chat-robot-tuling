@@ -12,5 +12,8 @@
     http://localhost：80
     
     
+    
+前台文件已经放进了public， 下载即可食用
+
 运行方式：
     npm start
